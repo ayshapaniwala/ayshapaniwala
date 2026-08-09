@@ -1,4 +1,6 @@
-## Hi there 👋
+# Aysha Paniwala - Data Analyst Portfolio 
+## About
+
 
 <!--
 **ayshapaniwala/ayshapaniwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
